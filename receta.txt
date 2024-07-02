@@ -1,1 +1,5 @@
 tortilla de patata
+    -pelar patatas
+    -cortar cebolla
+    -batir huevos
+    
