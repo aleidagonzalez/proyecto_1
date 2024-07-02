@@ -8,3 +8,7 @@ pepinos
 ajos
 harina
 azucar
+ron
+naranja
+zumo de grosella
+hielo
